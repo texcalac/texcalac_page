@@ -1,0 +1,416 @@
+/* ==========================================================================
+   0. IMPORTACIÓN DE FUENTES
+   ========================================================================== */
+
+/* Importar fuentes desde Google Fonts (Bree Serif y Quicksand) */
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@400;700&display=swap');
+
+/* ==========================================================================
+   1. BARRA DE NAVEGACIÓN (HEADER Y MENÚ)
+   ========================================================================== */
+
+/* Modificar el Navbar (header) SOLO en modo claro */
+/* html:not(.dark) asegura que estos estilos no afecten el modo oscuro */
+html:not(.dark) header {
+    background-color: #587997 !important;
+    font-family: 'Bree Serif', serif !important;
+    font-size: 1.1rem !important;
+    transition: color 0.3s ease;
+}
+
+/* Cambiar el color del texto y enlaces a blanco en el navbar claro para que sea legible sobre el fondo #587997 */
+html:not(.dark) header a,
+html:not(.dark) header span,
+html:not(.dark) header svg {
+    color: #ffffff !important;
+}
+
+/* Empujar el menú a la derecha en pantallas grandes (Computadoras) */
+@media (min-width: 1024px) {
+    ul#nav-menu {
+        margin-left: auto !important;
+        margin-right: 1.5rem !important;
+    }
+}
+
+/* Color del texto al pasar el ratón (hover) en el menú claro */
+html:not(.dark) header a:hover,
+html:not(.dark) header a:hover span,
+html:not(.dark) header a:hover svg {
+    color: #1565c0 !important;
+    transition: color 0.2s ease-in-out;
+    /* Animación suave */
+}
+
+/* Color del texto cuando el ítem está seleccionado (activo) en el menú claro */
+/* HugoBlox utiliza la clase .active o el atributo aria-current para la sección actual */
+html:not(.dark) header a.active,
+html:not(.dark) header a.active span,
+html:not(.dark) header a[aria-current="page"],
+html:not(.dark) header a[aria-current="page"] span {
+    color: #012334 !important;
+}
+
+/* Mi nombre en la esquina superior del perfil */
+header nav a.text-xl,
+header nav a.font-bold,
+.navbar-brand {
+    font-family: 'Encode Sans Condensed', sans-serif !important;
+    font-size: 1.25rem !important;
+}
+
+/* Mi nombre en la esquina superior del perfil en modo CLARO */
+html:not(.dark) header nav a.text-xl,
+html:not(.dark) header nav a.font-bold,
+html:not(.dark) .navbar-brand {
+    color: #ffffff !important;
+}
+
+/* Mi nombre en la esquina superior del perfil en modo OSCURO */
+html.dark header nav a.text-xl,
+html.dark header nav a.font-bold,
+html.dark .navbar-brand {
+    color: #ffffff !important;
+}
+
+
+/* ==========================================================================
+   2. TODO EL SITIO
+   ========================================================================== */
+
+/* Aplicar Quicksand como fuente principal del sitio */
+body,
+html {
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+/* Color personalizado para las viñetas (bullets y números de listas) */
+ul li::marker,
+ol li::marker {
+    color: #1A5276 !important;
+}
+
+/* Estilos personalizados para títulos de nivel 2 (h2) */
+h2,
+.h2,
+.article-style h2 {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.5rem !important;
+    color: #1b3646 !important;
+}
+
+/* ==========================================================================
+   3. SECCION PERFIL
+   ========================================================================== */
+
+/* Reducir el espacio vacío gigante arriba de la biografía */
+.quicksand-bio {
+    padding-top: 0rem !important;
+}
+
+/* Nombre de mi bio en dos líneas */
+h1.font-black.leading-tight {
+    white-space: pre-line;
+}
+
+/* Tipo de fuente y tamaño en el nombre de bio */
+.quicksand-bio h1,
+.quicksand-bio h2,
+div[class*="bio"] h1,
+div[class*="bio"] h2,
+.person-title h1,
+.person-title h2 {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.75rem !important;
+}
+
+/* Color personalizado para nombre en bio en el modo CLARO */
+html:not(.dark) .quicksand-bio h1,
+html:not(.dark) .quicksand-bio h2,
+html:not(.dark) div[class*="bio"] h1,
+html:not(.dark) div[class*="bio"] h2,
+html:not(.dark) .person-title h1,
+html:not(.dark) .person-title h2 {
+    color: #1b3646 !important;
+    /* Tu color para fondo claro */
+}
+
+/* Color personalizado para nombre en bio en el modo OSCURO */
+html.dark .quicksand-bio h1,
+html.dark .quicksand-bio h2,
+html.dark div[class*="bio"] h1,
+html.dark div[class*="bio"] h2,
+html.dark .person-title h1,
+html.dark .person-title h2 {
+    color: #ffffff !important;
+    /* Texto blanco para resaltar sobre el fondo oscuro */
+}
+
+/* Tipo de fuente y tamaño en del rol: */
+.quicksand-bio p,
+div[class*="bio"] p,
+.person-role,
+.network-icon+p {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.25rem !important;
+}
+
+/* Color personalizado para rol: en el modo CLARO */
+html:not(.dark) .quicksand-bio p,
+html:not(.dark) div[class*="bio"] p,
+html:not(.dark) .person-role,
+html:not(.dark) .network-icon+p {
+    color: #1A5276 !important;
+}
+
+/* Color personalizado para rol: en el modo OSCURO */
+html.dark .quicksand-bio p,
+html.dark div[class*="bio"] p,
+html.dark .person-role,
+html.dark .network-icon+p {
+    color: #e2e8f0 !important;
+}
+
+/* Íconos de plantilla en bio: colores para el modo CLARO */
+html:not(.dark) .quicksand-bio div.w-12.h-12.rounded-full svg {
+    color: #1A5276 !important;
+}
+
+/* Íconos de plantilla en bio: colores para el modo OSCURO */
+html:not(.dark) .quicksand-bio div.w-12.h-12.rounded-full {
+    background-color: #6293ae37 !important;
+}
+
+/* Color de íconos de plantilla en bio: modo CLARO */
+html.dark .quicksand-bio div.w-12.h-12.rounded-full svg {
+    color: #85c1e9 !important;
+}
+
+/* Color en círculo de íconos de plantilla en bio: modo OSCURO */
+html.dark .quicksand-bio div.w-12.h-12.rounded-full {
+    background-color: #1A527680 !important;
+    color: #85c1e9 !important;
+}
+
+/* Tamaño de círculo de ícono insertado */
+h2 svg,
+.article-style h2 svg {
+    display: inline-flex !important;
+    width: 3rem !important;
+    /* w-12 = 3rem (48px) */
+    height: 3rem !important;
+    /* h-12 = 3rem (48px) */
+    padding: 0.75rem !important;
+    /* Comprime el interior para que el dibujo mida exactamente w-6 (1.5rem) */
+    border-radius: 9999px !important;
+    /* rounded-full */
+    box-sizing: border-box !important;
+    /* Esencial para que el padding respete los 3rem totales */
+    flex-shrink: 0 !important;
+    /* flex-shrink-0 */
+}
+
+/* Alineación de círculo de ícono insertado con texto */
+h2,
+.article-style h2 {
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.75rem !important;
+    /* Separación para que no quede pegado al texto */
+}
+
+/* Color en modo CLARO en círculo de ícono insertado */
+html:not(.dark) h2 svg,
+html:not(.dark) .article-style h2 svg {
+    background-color: #6293ae37 !important;
+    color: #6293ae3 !important;
+}
+
+/* Color en modo OSCURO en círculo de ícono insertado */
+html.dark h2 svg,
+html.dark .article-style h2 svg {
+    background-color: #1A527680 !important;
+    color: #85c1e9 !important;
+}
+
+/* ==========================================================================
+   5. SECCION PROYECTOS
+   ========================================================================== */
+
+/* 11. Fuente y colores de los títulos de proyectos (article-grid) */
+
+/* Editar fuente para títulos de proyectos */
+div.grid h2 a,
+div.grid h3 a,
+div.grid a.hover\:underline,
+section a.hover\:underline {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.1rem !important;
+}
+
+/* Color para títulos de proyectos en MODO CLARO */
+html:not(.dark) div.grid a.hover\:underline,
+html:not(.dark) section a.hover\:underline {
+    color: #1A5276 !important;
+}
+
+/* Color al pasar el rayón en títulos de proyectos en MODO CLARO */
+html:not(.dark) div.grid a.hover\:underline:hover,
+html:not(.dark) section a.hover\:underline:hover {
+    color: #1565c0 !important;
+}
+
+html.dark div.grid a.hover\:underline,
+html.dark section a.hover\:underline {
+    color: #e2e8f0 !important;
+}
+
+html.dark div.grid a.hover\:underline:hover,
+html.dark section a.hover\:underline:hover {
+    color: #85c1e9 !important;
+}
+
+/* ==========================================================================
+   6. SECCION CURSOS
+   ========================================================================== */
+
+/* Fuente de nombre de cursos */
+h2[id] {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.3rem !important;
+    font-weight: 700 !important;
+    line-height: 1.5 !important;
+    margin-top: 4rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+/* Fuente de nombre de cursos en modo CLARO */
+html:not(.dark) h2[id] {
+    color: #1e6b92 !important;
+}
+
+/* Fuente de nombre de cursos en modo OSCURO */
+html.dark h2[id] {
+    color: #e2e8f0 !important;
+}
+
+/* Fuente de "profesor titular" */
+h3[id],
+html.dark h3[id] {
+    font-size: 1.25rem !important;
+    margin-bottom: 0.1rem !important;
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+/* Fuente de "profesor titular" en modo CLARO */
+h3[id] {
+    color: #012334 !important;
+}
+
+/* Fuente de "profesor titular" en modo OSCURO */
+html.dark h3[id] {
+    color: #e2e8f0 !important;
+}
+
+/* Fuente de nombre de sección "actividad docente" */
+h1.lg\:text-6xl {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.75rem !important;
+}
+
+/* Fuente de nombre de sección "actividad docente" en modo CLARO */
+html:not(.dark) h1.lg\:text-6xl {
+    color: #1b3646 !important;
+    /* Tu color azul oscuro */
+}
+
+/* Fuente de nombre de sección "actividad docente" en modo OSCURO */
+html.dark h1.lg\:text-6xl {
+    color: #ffffff !important;
+    /* Blanco para resaltar en la oscuridad */
+}
+
+/* Fuente en enlaces h2 (curso paspe epi espacial)  */
+h2[id] a {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.3rem !important;
+    text-decoration: none !important;
+}
+
+/* Fuente en enlaces h2 (curso paspe epi espacial) en modo CLARO */
+html:not(.dark) h2[id] a {
+    color: #0000FF !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    text-decoration: none !important;
+
+}
+
+/* Fuente en enlaces h2 (curso paspe epi espacial) en modo CLARO */
+/* Color al pasar el ratón */
+html:not(.dark) h2[id] a:hover {
+    color: #1565c0 !important;
+}
+
+/* Fuente en enlaces h2 (curso paspe epi espacial) en modo OSCURO */
+html.dark h2[id] a {
+    color: #e2e8f0 !important;
+}
+
+/* Fuente en enlaces h2 (curso paspe epi espacial) en modo OSCURO */
+/* Color al pasar el ratón */
+html.dark h2[id] a:hover {
+    color: #85c1e9 !important;
+}
+
+/* Fuente en enlaces normales */
+.article-style a,
+.prose a {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 1.1rem !important;
+    font-weight: 300 !important;
+    text-decoration: none !important;
+    line-height: 1 !important;
+}
+
+/* Fuente en enlaces normales en modo CLARO */
+html:not(.dark) .article-style a,
+html:not(.dark) .prose a {
+    color: #0000FF !important;
+}
+
+/* Fuente en enlaces normales al pasar el cursor en modo CLARO */
+html:not(.dark) .article-style a:hover,
+html:not(.dark) .prose a:hover {
+    color: #1565c0 !important;
+}
+
+/* Fuente en enlaces normales en modo OSCURO */
+html.dark .article-style a,
+html.dark .prose a {
+    color: #85c1e9 !important;
+    /* Azul claro para buen contraste en oscuridad */
+}
+
+/* Fuente en enlaces normales al pasar el cursor en modo OSCURO */
+html.dark .article-style a:hover,
+html.dark .prose a:hover {
+    color: #ffffff !important;
+    /* Se vuelve blanco al pasar el ratón */
+}
+
+/* =========================================
+   7. PUBLICACIONES
+   ========================================= */
+
+/* Fuente de nombre en publicación modo CLARO */
+a[href*="/authors/me"] {
+    font-weight: 600 !important;
+    color: #012334 !important;
+}
+
+/* Fuente de nombre en publicación modo OSCURO */
+html.dark a[href*="/authors/me"] {
+    color: #ffffff !important;
+}

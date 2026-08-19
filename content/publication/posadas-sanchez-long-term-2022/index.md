@@ -1,0 +1,47 @@
+---
+title: 'Long-Term Exposure to Ozone and Fine Particulate Matter and Risk of Premature
+  Coronary Artery Disease: Results from Genetics of Atherosclerotic Disease Mexican
+  Study'
+date: '2022-07-01'
+draft: false
+publishDate: '2026-08-17T07:27:53.073872Z'
+authors:
+- Rosalinda Posadas-Sánchez
+- Gilberto Vargas-Alarcón
+- Andres Cardenas
+- me
+- Citlalli Osorio-Yáñez
+- Marco Sanchez-Guerra
+publication_types:
+- '2'
+abstract: '(1) Background: Epidemiological studies have identified associations between
+  fine particulate matter (PM2.5) and ozone exposure with cardiovascular disease;
+  however, studies linking ambient air pollution and premature coronary artery disease
+  (pCAD) in Latin America are non-existing. (2) Methods: Our study was a case–control
+  analysis nested in the Genetics of Atherosclerotic Disease (GEA) Mexican study.
+  We included 1615 participants (869 controls and 746 patients with pCAD), recruited
+  at the Instituto Nacional de Cardiología Ignacio Chávez from June 2008 to January
+  2013. We defined pCAD as history of myocardial infarction, angioplasty, revascularization
+  surgery or coronary stenosis textgreater 50% diagnosed before age 55 in men and
+  age 65 in women. Controls were healthy individuals without personal or family history
+  of pCAD and with coronary artery calcification equal to zero. Hourly measurements
+  of ozone and PM2.5 from the Atmospheric Monitoring System in Mexico City (SIMAT
+  in Spanish; Sistema de Monitero Atmosférico de la Ciudad de México) were used to
+  calculate annual exposure to ozone and PM2.5 in the study participants. (3) Results:
+  Each ppb increase in ozone at 1-year, 2-year, 3-year and 5-year averages was significantly
+  associated with increased odds (OR = 1.10; 95% CI: 1.03–1.18; OR = 1.17; 95% CI:
+  1.05–1.30; OR = 1.18; 95% CI: 1.05–1.33, and OR = 1.13; 95% CI: 1.04–1.23, respectively)
+  of pCAD. We observed higher risk of pCAD for each 5 µg/m3 increase only for the
+  5-year average of PM2.5 exposure (OR = 2.75; 95% CI: 1.47–5.16), compared to controls.
+  (4) Conclusions: Ozone exposure at different time points and PM2.5 exposure at 5
+  years were associated with increased odds of pCAD. Our results highlight the importance
+  of reducing long-term exposure to ambient air pollution levels to reduce the burden
+  of cardiovascular disease in Mexico City and other metropolitan areas.'
+featured: false
+publication: '*Biology*'
+doi: 10.3390/biology11081122
+links:
+- name: URL
+  url: https://www.mdpi.com/2079-7737/11/8/1122
+---
+

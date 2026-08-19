@@ -1,0 +1,741 @@
+---
+title: 'Global, regional, and national comparative risk assessment of 79 behavioural,
+  environmental and occupational, and metabolic risks or clusters of risks in 188
+  countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study
+  2013'
+date: '2015-12-01'
+draft: false
+publishDate: '2026-08-17T07:27:48.143216Z'
+authors:
+- Mohammad H Forouzanfar
+- Lily Alexander
+- H Ross Anderson
+- Victoria F Bachman
+- Stan Biryukov
+- Michael Brauer
+- Richard Burnett
+- Daniel Casey
+- Matthew M Coates
+- Aaron Cohen
+- Kristen Delwiche
+- Kara Estep
+- Joseph J Frostad
+- Astha Kc
+- Hmwe H Kyu
+- Maziar Moradi-Lakeh
+- Marie Ng
+- Erica Leigh Slepak
+- Bernadette A Thomas
+- Joseph Wagner
+- Gunn Marit Aasvang
+- Cristiana Abbafati
+- Ayse Abbasoglu Ozgoren
+- Foad Abd-Allah
+- Semaw F Abera
+- Victor Aboyans
+- Biju Abraham
+- Jerry Puthenpurakal Abraham
+- Ibrahim Abubakar
+- Niveen M E Abu-Rmeileh
+- Tania C Aburto
+- Tom Achoki
+- Ademola Adelekan
+- Koranteng Adofo
+- Arsène K Adou
+- José C Adsuar
+- Ashkan Afshin
+- Emilie E Agardh
+- Mazin J Al Khabouri
+- Faris H Al Lami
+- Sayed Saidul Alam
+- Deena Alasfoor
+- Mohammed I Albittar
+- Miguel A Alegretti
+- Alicia V Aleman
+- Zewdie A Alemu
+- Rafael Alfonso-Cristancho
+- Samia Alhabib
+- Raghib Ali
+- Mohammed K Ali
+- François Alla
+- Peter Allebeck
+- Peter J Allen
+- Ubai Alsharif
+- Elena Alvarez
+- Nelson Alvis-Guzman
+- Adansi A Amankwaa
+- Azmeraw T Amare
+- Emmanuel A Ameh
+- Omid Ameli
+- Heresh Amini
+- Walid Ammar
+- Benjamin O Anderson
+- Carl Abelardo T Antonio
+- Palwasha Anwari
+- Solveig Argeseanu Cunningham
+- Johan Arnlöv
+- Valentina S Arsic Arsenijevic
+- Al Artaman
+- Rana J Asghar
+- Reza Assadi
+- Lydia S Atkins
+- Charles Atkinson
+- Marco A Avila
+- Baffour Awuah
+- Alaa Badawi
+- Maria C Bahit
+- Talal Bakfalouni
+- Kalpana Balakrishnan
+- Shivanthi Balalla
+- Ravi Kumar Balu
+- Amitava Banerjee
+- Ryan M Barber
+- Suzanne L Barker-Collo
+- Simon Barquera
+- Lars Barregard
+- Lope H Barrero
+- Tonatiuh Barrientos-Gutierrez
+- Ana C Basto-Abreu
+- Arindam Basu
+- Sanjay Basu
+- Mohammed O Basulaiman
+- Carolina Batis Ruvalcaba
+- Justin Beardsley
+- Neeraj Bedi
+- Tolesa Bekele
+- Michelle L Bell
+- Corina Benjet
+- Derrick A Bennett
+- Habib Benzian
+- Eduardo Bernabé
+- Tariku J Beyene
+- Neeraj Bhala
+- Ashish Bhalla
+- Zulfiqar A Bhutta
+- Boris Bikbov
+- Aref A Bin Abdulhak
+- Jed D Blore
+- Fiona M Blyth
+- Megan A Bohensky
+- Berrak Bora Başara
+- Guilherme Borges
+- Natan M Bornstein
+- Dipan Bose
+- Soufiane Boufous
+- Rupert R Bourne
+- Michael Brainin
+- Alexandra Brazinova
+- Nicholas J Breitborde
+- Hermann Brenner
+- Adam D M Briggs
+- David M Broday
+- Peter M Brooks
+- Nigel G Bruce
+- Traolach S Brugha
+- Bert Brunekreef
+- Rachelle Buchbinder
+- Linh N Bui
+- Gene Bukhman
+- Andrew G Bulloch
+- Michael Burch
+- Peter G J Burney
+- Ismael R Campos-Nonato
+- Julio C Campuzano
+- Alejandra J Cantoral
+- Jack Caravanos
+- Rosario Cárdenas
+- Elisabeth Cardis
+- David O Carpenter
+- Valeria Caso
+- Carlos A Castañeda-Orjuela
+- Ruben E Castro
+- Ferrán Catalá-López
+- Fiorella Cavalleri
+- Alanur Çavlin
+- Vineet K Chadha
+- Jung-chen Chang
+- Fiona J Charlson
+- Honglei Chen
+- Wanqing Chen
+- Zhengming Chen
+- Peggy P Chiang
+- Odgerel Chimed-Ochir
+- Rajiv Chowdhury
+- Costas A Christophi
+- Ting-Wu Chuang
+- Sumeet S Chugh
+- Massimo Cirillo
+- Thomas Kd Claßen
+- Valentina Colistro
+- Mercedes Colomar
+- Samantha M Colquhoun
+- Alejandra G Contreras
+- Cyrus Cooper
+- Kimberly Cooperrider
+- Leslie T Cooper
+- Josef Coresh
+- Karen J Courville
+- Michael H Criqui
+- Lucia Cuevas-Nasu
+- James Damsere-Derry
+- Hadi Danawi
+- Lalit Dandona
+- Rakhi Dandona
+- Paul I Dargan
+- Adrian Davis
+- Dragos V Davitoiu
+- Anand Dayama
+- E Filipa De Castro
+- Vanessa De La Cruz-Góngora
+- Diego De Leo
+- Graça De Lima
+- Louisa Degenhardt
+- Borja Del Pozo-Cruz
+- Robert P Dellavalle
+- Kebede Deribe
+- Sarah Derrett
+- Don C Des Jarlais
+- Muluken Dessalegn
+- Gabrielle A deVeber
+- Karen M Devries
+- Samath D Dharmaratne
+- Mukesh K Dherani
+- Daniel Dicker
+- Eric L Ding
+- Klara Dokova
+- E Ray Dorsey
+- Tim R Driscoll
+- Leilei Duan
+- Adnan M Durrani
+- Beth E Ebel
+- Richard G Ellenbogen
+- Yousef M Elshrek
+- Matthias Endres
+- Sergey P Ermakov
+- Holly E Erskine
+- Babak Eshrati
+- Alireza Esteghamati
+- Saman Fahimi
+- Emerito Jose A Faraon
+- Farshad Farzadfar
+- Derek F J Fay
+- Valery L Feigin
+- Andrea B Feigl
+- Seyed-Mohammad Fereshtehnejad
+- Alize J Ferrari
+- Cleusa P Ferri
+- Abraham D Flaxman
+- Thomas D Fleming
+- Nataliya Foigt
+- Kyle J Foreman
+- Urbano Fra Paleo
+- Richard C Franklin
+- Belinda Gabbe
+- Lynne Gaffikin
+- Emmanuela Gakidou
+- Amiran Gamkrelidze
+- Fortuné G Gankpé
+- Ron T Gansevoort
+- Francisco A García-Guerra
+- Evariste Gasana
+- Johanna M Geleijnse
+- Bradford D Gessner
+- Pete Gething
+- Katherine B Gibney
+- Richard F Gillum
+- Ibrahim A M Ginawi
+- Maurice Giroud
+- Giorgia Giussani
+- Shifalika Goenka
+- Ketevan Goginashvili
+- Hector Gomez Dantes
+- Philimon Gona
+- Teresita Gonzalez De Cosio
+- Dinorah González-Castell
+- Carolyn C Gotay
+- Atsushi Goto
+- Hebe N Gouda
+- Richard L Guerrant
+- Harish C Gugnani
+- Francis Guillemin
+- David Gunnell
+- Rahul Gupta
+- Rajeev Gupta
+- Reyna A Gutiérrez
+- Nima Hafezi-Nejad
+- Holly Hagan
+- Maria Hagstromer
+- Yara A Halasa
+- Randah R Hamadeh
+- Mouhanad Hammami
+- Graeme J Hankey
+- Yuantao Hao
+- Hilda L Harb
+- Tilahun Nigatu Haregu
+- Josep Maria Haro
+- Rasmus Havmoeller
+- Simon I Hay
+- Mohammad T Hedayati
+- Ileana B Heredia-Pi
+- Lucia Hernandez
+- Kyle R Heuton
+- Pouria Heydarpour
+- Martha Hijar
+- Hans W Hoek
+- Howard J Hoffman
+- John C Hornberger
+- H Dean Hosgood
+- Damian G Hoy
+- Mohamed Hsairi
+- Guoqing Hu
+- Howard Hu
+- Cheng Huang
+- John J Huang
+- Bryan J Hubbell
+- Laetitia Huiart
+- Abdullatif Husseini
+- Marissa L Iannarone
+- Kim M Iburg
+- Bulat T Idrisov
+- Nayu Ikeda
+- Kaire Innos
+- Manami Inoue
+- Farhad Islami
+- Samaya Ismayilova
+- Kathryn H Jacobsen
+- Henrica A Jansen
+- Deborah L Jarvis
+- Simerjot K Jassal
+- Alejandra Jauregui
+- Sudha Jayaraman
+- Panniyammakal Jeemon
+- Paul N Jensen
+- Vivekanand Jha
+- Fan Jiang
+- Guohong Jiang
+- Ying Jiang
+- Jost B Jonas
+- Knud Juel
+- Haidong Kan
+- Sidibe S Kany Roseline
+- Nadim E Karam
+- André Karch
+- Corine K Karema
+- Ganesan Karthikeyan
+- Anil Kaul
+- Norito Kawakami
+- Dhruv S Kazi
+- Andrew H Kemp
+- Andre P Kengne
+- Andre Keren
+- Yousef S Khader
+- Shams Eldin Ali Hassan Khalifa
+- Ejaz A Khan
+- Young-Ho Khang
+- Shahab Khatibzadeh
+- Irma Khonelidze
+- Christian Kieling
+- Daniel Kim
+- Sungroul Kim
+- Yunjin Kim
+- Ruth W Kimokoti
+- Yohannes Kinfu
+- Jonas M Kinge
+- Brett M Kissela
+- Miia Kivipelto
+- Luke D Knibbs
+- Ann Kristin Knudsen
+- Yoshihiro Kokubo
+- M Rifat Kose
+- Soewarta Kosen
+- Alexander Kraemer
+- Michael Kravchenko
+- Sanjay Krishnaswami
+- Hans Kromhout
+- Tiffany Ku
+- Barthelemy Kuate Defo
+- Burcu Kucuk Bicer
+- Ernst J Kuipers
+- Chanda Kulkarni
+- Veena S Kulkarni
+- G Anil Kumar
+- Gene F Kwan
+- Taavi Lai
+- Arjun Lakshmana Balaji
+- Ratilal Lalloo
+- Tea Lallukka
+- Hilton Lam
+- Qing Lan
+- Van C Lansingh
+- Heidi J Larson
+- Anders Larsson
+- Dennis O Laryea
+- Pablo M Lavados
+- Alicia E Lawrynowicz
+- Janet L Leasher
+- Jong-Tae Lee
+- James Leigh
+- Ricky Leung
+- Miriam Levi
+- Yichong Li
+- Yongmei Li
+- Juan Liang
+- Xiaofeng Liang
+- Stephen S Lim
+- M Patrice Lindsay
+- Steven E Lipshultz
+- Shiwei Liu
+- Yang Liu
+- Belinda K Lloyd
+- Giancarlo Logroscino
+- Stephanie J London
+- Nancy Lopez
+- Joannie Lortet-Tieulent
+- Paulo A Lotufo
+- Rafael Lozano
+- Raimundas Lunevicius
+- Jixiang Ma
+- Stefan Ma
+- Vasco M P Machado
+- Michael F MacIntyre
+- Carlos Magis-Rodriguez
+- Abbas A Mahdi
+- Marek Majdan
+- Reza Malekzadeh
+- Srikanth Mangalam
+- Christopher C Mapoma
+- Marape Marape
+- Wagner Marcenes
+- David J Margolis
+- Christopher Margono
+- Guy B Marks
+- Randall V Martin
+- Melvin B Marzan
+- Mohammad T Mashal
+- Felix Masiye
+- Amanda J Mason-Jones
+- Kunihiro Matsushita
+- Richard Matzopoulos
+- Bongani M Mayosi
+- Tasara T Mazorodze
+- Abigail C McKay
+- Martin McKee
+- Abigail McLain
+- Peter A Meaney
+- Catalina Medina
+- Man Mohan Mehndiratta
+- Fabiola Mejia-Rodriguez
+- Wubegzier Mekonnen
+- Yohannes A Melaku
+- Michele Meltzer
+- Ziad A Memish
+- Walter Mendoza
+- George A Mensah
+- Atte Meretoja
+- Francis Apolinary Mhimbira
+- Renata Micha
+- Ted R Miller
+- Edward J Mills
+- Awoke Misganaw
+- Santosh Mishra
+- Norlinah Mohamed Ibrahim
+- Karzan A Mohammad
+- Ali H Mokdad
+- Glen L Mola
+- Lorenzo Monasta
+- Julio C Montañez Hernandez
+- Marcella Montico
+- Ami R Moore
+- Lidia Morawska
+- Rintaro Mori
+- Joanna Moschandreas
+- Wilkister N Moturi
+- Dariush Mozaffarian
+- Ulrich O Mueller
+- Mitsuru Mukaigawara
+- Erin C Mullany
+- Kinnari S Murthy
+- Mohsen Naghavi
+- Ziad Nahas
+- Aliya Naheed
+- Kovin S Naidoo
+- Luigi Naldi
+- Devina Nand
+- Vinay Nangia
+- Km Venkat Narayan
+- Denis Nash
+- Bruce Neal
+- Chakib Nejjari
+- Sudan P Neupane
+- Charles R Newton
+- Frida N Ngalesoni
+- Jean De Dieu Ngirabega
+- Grant Nguyen
+- Nhung T Nguyen
+- Mark J Nieuwenhuijsen
+- Muhammad I Nisar
+- José R Nogueira
+- Joan M Nolla
+- Sandra Nolte
+- Ole F Norheim
+- Rosana E Norman
+- Bo Norrving
+- Luke Nyakarahuka
+- In-Hwan Oh
+- Takayoshi Ohkubo
+- Bolajoko O Olusanya
+- Saad B Omer
+- John Nelson Opio
+- Ricardo Orozco
+- Rodolfo S Pagcatipunan
+- Amanda W Pain
+- Jeyaraj D Pandian
+- Carlo Irwin A Panelo
+- Christina Papachristou
+- Eun-Kee Park
+- Charles D Parry
+- Angel J Paternina Caicedo
+- Scott B Patten
+- Vinod K Paul
+- Boris I Pavlin
+- Neil Pearce
+- Lilia S Pedraza
+- Andrea Pedroza
+- Ljiljana Pejin Stokic
+- Ayfer Pekericli
+- David M Pereira
+- Rogelio Perez-Padilla
+- Fernando Perez-Ruiz
+- Norberto Perico
+- Samuel A L Perry
+- Aslam Pervaiz
+- Konrad Pesudovs
+- Carrie B Peterson
+- Max Petzold
+- Michael R Phillips
+- Hwee Pin Phua
+- Dietrich Plass
+- Dan Poenaru
+- Guilherme V Polanczyk
+- Suzanne Polinder
+- Constance D Pond
+- C Arden Pope
+- Daniel Pope
+- Svetlana Popova
+- Farshad Pourmalek
+- John Powles
+- Dorairaj Prabhakaran
+- Noela M Prasad
+- Dima M Qato
+- Amado D Quezada
+- D Alex A Quistberg
+- Lionel Racapé
+- Anwar Rafay
+- Kazem Rahimi
+- Vafa Rahimi-Movaghar
+- Sajjad Ur Rahman
+- Murugesan Raju
+- Ivo Rakovac
+- Saleem M Rana
+- Mayuree Rao
+- Homie Razavi
+- K Srinath Reddy
+- Amany H Refaat
+- Jürgen Rehm
+- Giuseppe Remuzzi
+- Antonio L Ribeiro
+- Patricia M Riccio
+- Lee Richardson
+- Anne Riederer
+- Margaret Robinson
+- Anna Roca
+- Alina Rodriguez
+- David Rojas-Rueda
+- Isabelle Romieu
+- Luca Ronfani
+- Robin Room
+- Nobhojit Roy
+- George M Ruhago
+- Lesley Rushton
+- Nsanzimana Sabin
+- Ralph L Sacco
+- Sukanta Saha
+- Ramesh Sahathevan
+- Mohammad Ali Sahraian
+- Joshua A Salomon
+- Deborah Salvo
+- Uchechukwu K Sampson
+- Juan R Sanabria
+- Luz Maria Sanchez
+- Tania G Sánchez-Pimienta
+- Lidia Sanchez-Riera
+- Logan Sandar
+- Itamar S Santos
+- Amir Sapkota
+- Maheswar Satpathy
+- James E Saunders
+- Monika Sawhney
+- Mete I Saylan
+- Peter Scarborough
+- Jürgen C Schmidt
+- Ione J C Schneider
+- Ben Schöttker
+- David C Schwebel
+- James G Scott
+- Soraya Seedat
+- Sadaf G Sepanlou
+- Berrin Serdar
+- Edson E Servan-Mori
+- Gavin Shaddick
+- Saeid Shahraz
+- Teresa Shamah Levy
+- Siyi Shangguan
+- Jun She
+- Sara Sheikhbahaei
+- Kenji Shibuya
+- Hwashin H Shin
+- Yukito Shinohara
+- Rahman Shiri
+- Kawkab Shishani
+- Ivy Shiue
+- Inga D Sigfusdottir
+- Donald H Silberberg
+- Edgar P Simard
+- Shireen Sindi
+- Abhishek Singh
+- Gitanjali M Singh
+- Jasvinder A Singh
+- Vegard Skirbekk
+- Karen Sliwa
+- Michael Soljak
+- Samir Soneji
+- Kjetil Søreide
+- Sergey Soshnikov
+- Luciano A Sposato
+- Chandrashekhar T Sreeramareddy
+- Nicolas J C Stapelberg
+- Vasiliki Stathopoulou
+- Nadine Steckling
+- Dan J Stein
+- Murray B Stein
+- Natalie Stephens
+- Heidi Stöckl
+- Kurt Straif
+- Konstantinos Stroumpoulis
+- Lela Sturua
+- Bruno F Sunguya
+- Soumya Swaminathan
+- Mamta Swaroop
+- Bryan L Sykes
+- Karen M Tabb
+- Ken Takahashi
+- Roberto T Talongwa
+- Nikhil Tandon
+- David Tanne
+- Marcel Tanner
+- Mohammad Tavakkoli
+- Braden J Te Ao
+- Carolina M Teixeira
+- Martha M Téllez Rojo
+- Abdullah S Terkawi
+- me
+- Sarah V Thackway
+- Blake Thomson
+- Andrew L Thorne-Lyman
+- Amanda G Thrift
+- George D Thurston
+- Taavi Tillmann
+- Myriam Tobollik
+- Marcello Tonelli
+- Fotis Topouzis
+- Jeffrey A Towbin
+- Hideaki Toyoshima
+- Jefferson Traebert
+- Bach X Tran
+- Leonardo Trasande
+- Matias Trillini
+- Ulises Trujillo
+- Zacharie Tsala Dimbuene
+- Miltiadis Tsilimbaris
+- Emin Murat Tuzcu
+- Uche S Uchendu
+- Kingsley N Ukwaja
+- Selen B Uzun
+- Steven Van De Vijver
+- Rita Van Dingenen
+- Coen H Van Gool
+- Jim Van Os
+- Yuri Y Varakin
+- Tommi J Vasankari
+- Ana Maria N Vasconcelos
+- Monica S Vavilala
+- Lennert J Veerman
+- Gustavo Velasquez-Melendez
+- N Venketasubramanian
+- Lakshmi Vijayakumar
+- Salvador Villalpando
+- Francesco S Violante
+- Vasiliy Victorovich Vlassov
+- Stein Emil Vollset
+- Gregory R Wagner
+- Stephen G Waller
+- Mitchell T Wallin
+- Xia Wan
+- Haidong Wang
+- JianLi Wang
+- Linhong Wang
+- Wenzhi Wang
+- Yanping Wang
+- Tati S Warouw
+- Charlotte H Watts
+- Scott Weichenthal
+- Elisabete Weiderpass
+- Robert G Weintraub
+- Andrea Werdecker
+- K Ryan Wessells
+- Ronny Westerman
+- Harvey A Whiteford
+- James D Wilkinson
+- Hywel C Williams
+- Thomas N Williams
+- Solomon M Woldeyohannes
+- Charles D A Wolfe
+- John Q Wong
+- Anthony D Woolf
+- Jonathan L Wright
+- Brittany Wurtz
+- Gelin Xu
+- Lijing L Yan
+- Gonghuan Yang
+- Yuichiro Yano
+- Pengpeng Ye
+- Muluken Yenesew
+- Gökalp K Yentür
+- Paul Yip
+- Naohiro Yonemoto
+- Seok-Jun Yoon
+- Mustafa Z Younis
+- Zourkaleini Younoussi
+- Chuanhua Yu
+- Maysaa E Zaki
+- Yong Zhao
+- Yingfeng Zheng
+- Maigeng Zhou
+- Jun Zhu
+- Shankuan Zhu
+- Xiaonong Zou
+- Joseph R Zunt
+- Alan D Lopez
+- Theo Vos
+- Christopher J Murray
+publication_types:
+- '2'
+abstract: ''
+featured: false
+publication: '*The Lancet*'
+doi: 10.1016/S0140-6736(15)00128-2
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0140673615001282
+---
+

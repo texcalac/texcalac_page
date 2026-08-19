@@ -2,115 +2,109 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: "José Luis\nTexcalac Sangrador"
+  given: José Luis
+  family: Texcalac Sangrador
+
 postnominals:
-  - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  - Dr.
+
+role: Investigador en Ciencias Médicas
+
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  - Investigador del Instituto Nacional de Salud Pública (INSP)
+  - Profesor de programas de posgrado en la Escuela de Salud Pública de México (ESPM).
+  - Investigador Nacional Nivel-II del Sistema Nacional de Investigadoras e Investigadores (SECIHTI).
+  - Investigador principal y co-investigador de diversos proyectos relacionados con la
+  contaminación ambiental y sus riesgos para la salud humana.
+
+  ## {{< icon name="hero/briefcase" >}} Líneas de trabajo
+  - Contaminación del aire y sus impactos en salud.
+  - Análisis espacial de los riesgos a la salud asociados a la exposición a 
+  contaminantes ambientales.
+  - Estadística espacial y epidemiología espacial.
+  - Desarrollo y aplicación de métodos para estimar la exposición humana a 
+  contaminantes ambientales utilizando el software R
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Instituto Nacional de Salud Pública
+    url: https://www.insp.mx
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
+    url: mailto:jtexcalac@insp.mx
+    label: Correo electrónico
+
   - icon: brands/x
-    url: https://x.com/example
+    url: https://twitter.com/texcalac
+    label: Yo en X
+
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/texcalac
+    label: Yo en Github
+
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=L2Q2fI4AAAAJ
+    label: Google Scholar
+
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Jose-Luis-Texcalac-Sangrador
+    label: ResearchGate
+
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-4507-9237
+    label: ORCID
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Epidemiología espacial
+  - Estadística espacial
+  - Ciencia de datos en R
+  - Contaminación del aire y sus efectos en salud
+  - Estimación de la exposición a contaminantes ambientales
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: Doctor en Geografía
+    institution: Universidad Nacional Autónoma de México (UNAM)
+
+  - degree: Maestro en Ciencias en Salud Ambiental
+    institution: Instituto Nacional de Salud Pública, México (INSP)
+
+  - degree: Licenciado en Planificación para el Desarrollo Agropecuario
+    institution: Universidad Nacional Autónoma de México (UNAM)
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - title: Doctor en Ciencias
+    role: Investigador en Ciencias Médicas D
+    org: Instituto Nacional de Salud Pública (INSP)
+    org_logo: insp.png
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      - Colaborando en diversos proyectos de investigación sobre los riesgos a la salud provocados por la degradación y contaminación ambiental.
+      - Participando como docente en programas de posgrado.
     button:
-      text: View portfolio
-      url: /
+      text: Ver publicaciones
+      url: /publication/ # <-- Ajusté la ruta para que te lleve a tu pestaña de publicaciones
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
+  - title: Investigador Nacional
+    role: Nivel-II
+    org: Sistema Nacional de Investigadoras e Investigadores (SECIHTI)
+    date_start: "2022-01-01" # <-- Ajusta a tu año de ingreso al SNI
+    date_end: ""
 
 skills:
-  - name: Technical Skills
+  - name: Habilidades técnicas
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: R & Positron / RStudio
+        level: 3.5
+      - label: Quarto & Markdown
+        level: 3
+      - label: Análisis espacial
         level: 4
-  - name: Research & Communication
+  - name: Intereses
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: Vida Geek
         level: 4
-      - label: Grant Proposals
+      - label: Series, películas
+        level: 4.5
+      - label: Deportes
         level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
